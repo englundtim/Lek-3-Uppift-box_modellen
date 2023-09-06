@@ -1,0 +1,32 @@
+body{
+    background-image: url(./img/showcase.jpg);
+}
+
+h1{
+    font-size: 2em;
+    background-color: yellow;
+    border: 1px solid black;
+    color: blue;
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Roboto Mono', monospace;
+
+}
+h2{
+    text-align: center;
+
+}
+.grey-box{
+    background-color: lightgray;
+    border: 1px solid black;
+    margin: 15px;
+    font-size: 0,5em;
+    padding-left: 3%;
+    padding-right: 3%;
+
+}
+.end-picture-align{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
